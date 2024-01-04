@@ -12,7 +12,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * └───┴───┴───┴───┘
      */
     [0] = LAYOUT_ortho_2x3(
-	LCTL(KC_F7),   LCTL(KC_F8),    LCTL(KC_F9),
-	LCTL(KC_F10),  LCTL(KC_F11),   LCTL(KC_F12)
+	LALT(KC_F10),   RCTL(KC_PSCR),    LCTL(LSFT(KC_M)),
+	RCTL(KC_SLSH),  LGUI(KC_D),   LCTL(LSFT(KC_D))
     )
 };
