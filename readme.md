@@ -5,8 +5,8 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [max rae](https://github.com/toxithot)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: pi pico
+* Hardware Availability: you know where to buy a pico
 
 Make example for this keyboard (after setting up your build environment):
 
